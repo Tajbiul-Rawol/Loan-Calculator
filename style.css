@@ -1,0 +1,22 @@
+#loancal{
+    border: 1px steelblue solid;
+    padding: 30px 10px;
+    width: 30%;
+    margin: 50px 50px 20px;
+    text-align: left;
+    background-color:steelblue;
+    border-radius: 9px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+input{
+    border-radius: 9px;
+    width: 80%;
+    text-align: center;
+}
